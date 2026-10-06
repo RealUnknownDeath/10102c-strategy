@@ -15,7 +15,7 @@ Deploy through the repository's existing GitHub Pages main/root configuration.
 No service keys, build service, analytics or backend are needed. Diagram persistence
 uses only the reader's browser; exporting is an explicit user action.
 
-Validation on October 5, 2026: 260 scoring assertions; all HTML pages loaded in a
+Validation on October 5, 2026: 263 scoring assertions; all HTML pages loaded in a
 headless browser; no JavaScript errors; calculator changes, invalid-input handling,
 toggle menus, robot keyboard movement, drawing/undo, state export and desktop/mobile
 layout checked. Every relative page/script/style/image link resolves.
